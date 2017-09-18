@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/mohayonao/timbre.js.git"
   },
-  "main": "timbre.node.js",
+  "main": "timbre.dev.js",
   "licenses": [
     {
       "type": "MIT",
